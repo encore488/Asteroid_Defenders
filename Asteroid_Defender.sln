@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Asteroid_Defender", "Asteroid_Defender.pyproj", "{8DE99AF6-3DC4-4166-AF86-36BCF52A9F5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0880B025-E2A0-4891-826C-0B9F54782818}"
+	ProjectSection(SolutionItems) = preProject
+		BlasterBolt-removebg-preview.png = BlasterBolt-removebg-preview.png
+		EarthHorizon.jpg = EarthHorizon.jpg
+		fightJet-removebg-preview.png = fightJet-removebg-preview.png
+		meteor1.png = meteor1.png
+		meteor2-removebg-preview.png = meteor2-removebg-preview.png
+		meteor2.jpg = meteor2.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE99AF6-3DC4-4166-AF86-36BCF52A9F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE99AF6-3DC4-4166-AF86-36BCF52A9F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ABD3329-504B-42EE-B6A0-4262F8C62371}
+	EndGlobalSection
+EndGlobal
